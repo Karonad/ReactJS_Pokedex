@@ -11,7 +11,7 @@ class PokemonElements extends React.Component{
         this.state = {
             pName: '',
             isLoading: false,
-            url: 'https://pokeapi.co/api/v2/pokemon/?limit=151',
+            url: 'https://pokeapi.co/api/v2/pokemon/?limit=807',
             spriteUrl: '',
             name:'',
             hp: '',
