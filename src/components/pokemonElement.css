@@ -1,0 +1,10 @@
+.imgType{
+    display: flex;
+    flex-direction: row;
+        width:20%;
+    height:5%;
+}
+
+.img{
+    margin-left: 10px;
+}

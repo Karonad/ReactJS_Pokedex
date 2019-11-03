@@ -1,0 +1,14 @@
+
+.Search {
+    background-color: orangered;
+    width: 50px;
+    height: 20px;
+    border:none;
+    border-radius: 10%;
+    margin-left: 10px;
+}
+
+.input{
+    height: 18px;
+    margin-top: 5px;
+}
